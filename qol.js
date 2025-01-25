@@ -6,7 +6,7 @@
 // @author       Suprinister
 // @match        https://flowr.fun/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-// @license      Apache
+// @license      Apache-2.0
 // @grant        none
 // ==/UserScript==
 
