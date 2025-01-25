@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Flowr QoL
 // @namespace    http://tampermonkey.net/
-// @version      2025-01-13
+// @version      1.0.0
 // @description  A QoL script for Flowr!
 // @author       Suprinister
 // @match        https://flowr.fun/*
